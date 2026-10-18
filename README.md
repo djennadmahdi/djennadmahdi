@@ -1,64 +1,62 @@
+# Bonjour, je suis Mahdi Djennad 👋
 
-# Hi, I'm Mahdi Djennad 👋
-
-### 🎓 Master's Student | Embedded Systems & Data / Machine Learning
+### 🎓 Étudiant en Master 2 | Systèmes embarqués, Data & Machine Learning
 
 📍 Grenoble, France  
-🎯 **Seeking a 6-month final-year internship starting February 2027**
+🎯 **À la recherche d'un stage de fin d'études de 6 mois à partir de février 2027**
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-I'm currently pursuing a Master's degree in **MIASHS – Computer Science & Cognition** at **Université Grenoble Alpes (France)**.
+Je suis actuellement étudiant en **Master 2 MIASHS — Informatique et Cognition** à **l'Université Grenoble Alpes (France)**.
 
-I also hold a Master's degree in **Networks, Mobility & Embedded Systems** from Université Mouloud Mammeri, Tizi-Ouzou.
+Je suis également titulaire d'un **Master en Réseaux, Mobilité et Systèmes Embarqués** de l'Université Mouloud Mammeri de Tizi-Ouzou.
 
-My background combines embedded software development, data engineering, and machine learning.
+Mon parcours combine le développement de logiciels embarqués, l'ingénierie des données et le Machine Learning.
 
-I'm particularly interested in developing my skills in **Embedded AI (Edge AI), Machine Learning, and Computer Vision**.
+Je souhaite particulièrement développer mes compétences en **IA embarquée (Edge AI), Machine Learning et vision par ordinateur**.
 
-## 🚀 Featured Projects
+## 🚀 Projets principaux
 
-### 🔹 STM32 OTA Firmware Update System
+### 🔹 [Système de mise à jour OTA pour STM32](https://github.com/djennadmahdi/STM32-OTA-Firmware-Update)
 
-- Developed a remote firmware update system using **STM32 and Embedded C**.
-- Implemented a bootloader and firmware downloading via **4G (SIM7600)**.
-- Integrated **CRC32 integrity verification** and firmware recovery mechanisms.
-- Technologies: `C` `STM32` `UART` `4G` `Bootloader` `CRC32`
+- Développement d'un système de mise à jour du firmware à distance sur **STM32 en C embarqué**.
+- Conception d'un bootloader et téléchargement du firmware via **GSM/4G (SIM7600E)**.
+- Intégration d'une vérification d'intégrité **CRC32** et de mécanismes de récupération du firmware.
+- **Technologies :** `C` `STM32` `UART` `4G` `Bootloader` `CRC32`
 
-### 🔹 JADE – Algorithmic Fairness in Elections
+### 🔹 JADE — Justice Algorithmique des Élections
 
-- Contributed to a research project at Université Grenoble Alpes.
-- Developed Python parsers and data-cleaning pipelines using Regex.
-- Worked with **ETL pipelines and PostgreSQL**.
-- Applied **NLP techniques**, including TF-IDF and logistic regression.
-- Achieved **90.5% accuracy** on test data.
-- Technologies: `Python` `PostgreSQL` `ETL` `NLP` `scikit-learn` `Git`
+- Participation à un projet de recherche à l'Université Grenoble Alpes.
+- Développement de parsers Python et de traitements de nettoyage des données avec les expressions régulières (Regex).
+- Mise en œuvre de pipelines **ETL** et utilisation de **PostgreSQL**.
+- Application de techniques de **NLP**, notamment TF-IDF et la régression logistique.
+- Obtention d'une **précision de 90,5 %** sur les données de test.
+- **Technologies :** `Python` `PostgreSQL` `ETL` `NLP` `scikit-learn` `Git`
 
-## 🛠️ Technical Skills
+## 🛠️ Compétences techniques
 
-**Programming:** Python, C, Java, JavaScript, SQL
+**Programmation :** Python, C, Java, JavaScript, SQL
 
-**Embedded Systems:** STM32, Embedded C, UART, Bootloader, Firmware Updates
+**Systèmes embarqués :** STM32, C embarqué, UART, Bootloader, mises à jour de firmware
 
-**Data & Machine Learning:** Pandas, PostgreSQL, ETL, NLP, TF-IDF, scikit-learn
+**Data & Machine Learning :** Pandas, PostgreSQL, ETL, NLP, TF-IDF, scikit-learn
 
-**Tools:** Git, GitHub, VS Code, STM32CubeIDE, Jupyter
+**Outils :** Git, GitHub, VS Code, STM32CubeIDE, Jupyter
 
-## 🎯 Internship Opportunities
+## 🎯 Recherche de stage
 
-I'm looking for a **6-month final-year internship starting in February 2027** in:
+Je recherche un **stage de fin d'études de 6 mois à partir de février 2027** dans les domaines suivants :
 
-- Embedded Software Development
-- Data Engineering and Machine Learning
-- Embedded AI / Edge AI
-- Computer Vision
+- Développement logiciel embarqué
+- Data Engineering et Machine Learning
+- IA embarquée (Edge AI)
+- Vision par ordinateur
 
-I'm based in Grenoble and open to opportunities across France.
+Basé à Grenoble, je suis mobile et ouvert aux opportunités dans toute la France.
 
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahdi-djennad)
 - 📧 [Email](mailto:djennadmahdi910@gmail.com)
-
