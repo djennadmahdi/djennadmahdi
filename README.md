@@ -26,14 +26,14 @@ Je souhaite particulièrement développer mes compétences en **IA embarquée (E
 - Intégration d'une vérification d'intégrité **CRC32** et de mécanismes de récupération du firmware.
 - **Technologies :** `C` `STM32` `UART` `4G` `Bootloader` `CRC32`
 
-### 🔹 JADE — Justice Algorithmique des Élections
+### 🔹 [JADE — Justice Algorithmique des Élections](https://github.com/djennadmahdi/JADE-Justice-Algorithmique-Elections)
 
-- Participation à un projet de recherche à l'Université Grenoble Alpes.
-- Développement de parsers Python et de traitements de nettoyage des données avec les expressions régulières (Regex).
-- Mise en œuvre de pipelines **ETL** et utilisation de **PostgreSQL**.
-- Application de techniques de **NLP**, notamment TF-IDF et la régression logistique.
-- Obtention d'une **précision de 90,5 %** sur les données de test.
-- **Technologies :** `Python` `PostgreSQL` `ETL` `NLP` `scikit-learn` `Git`
+- Projet de recherche universitaire (TER 2026) réalisé en binôme à l'Université Grenoble Alpes, portant sur 25 617 décisions du Conseil constitutionnel.
+- **Mes contributions personnelles :** développement de parsers Python, extraction et normalisation des données (Regex, JSON, Excel), correction des problèmes d'encodage et tests unitaires avec pytest.
+- **ETL PostgreSQL :** participation à l'intégration du pipeline conçu en binôme (staging, contrôle qualité et gestion des rejets).
+- **Classification NLP en binôme :** développement et évaluation d'un modèle TF-IDF + régression logistique (scikit-learn), avec une **exactitude (accuracy) de 90,5 %** sur le jeu de test.
+- Tableau de bord Streamlit / Plotly développé par mon binôme.
+- **Technologies :** `Python` `PostgreSQL` `ETL` `NLP` `scikit-learn` `pytest` `Git`
 
 ## 🛠️ Compétences techniques
 
